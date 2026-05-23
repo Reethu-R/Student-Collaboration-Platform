@@ -1,6 +1,27 @@
 # 🎓 StudyCollab — Student Collaboration Platform
 
 A real-time student collaboration platform built with React, Node.js, Express, MongoDB, and Socket.io.
+full-stack web application built with MERN stack that helps students connect, collaborate and manage their academic work together.
+About the Project
+Students often struggle to coordinate group assignments and share resources easily. This platform provides a space where students can form groups, share materials and work together effectively — all in one place.
+Features
+Student login and registration
+Create and join study groups
+Share resources and materials within groups
+View group members and activities
+Real-time updates on group collaboration
+Responsive design for all devices
+Tech Stack
+Layer
+Technology
+Frontend
+React JS, JavaScript, CSS
+Backend
+Node.js, Express.js
+Database
+MongoDB
+Runtime
+Node.js
 
 ## ✨ Features
 - 🔐 Register & Login with JWT authentication
